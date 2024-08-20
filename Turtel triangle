@@ -1,0 +1,13 @@
+from turtle import *
+
+side = 100
+angle = 360 / 3
+
+forward(side)
+left(angle)
+forward(side)
+left(angle)
+forward(side)
+
+
+# Add code above this line to finish the triangle!
