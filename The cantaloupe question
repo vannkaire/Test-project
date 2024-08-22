@@ -1,0 +1,3 @@
+message = input ('Message: ')
+New_message = message.replace('Cantaloupe','Rockmelon')
+print(New_message)
