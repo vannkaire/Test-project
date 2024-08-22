@@ -1,0 +1,4 @@
+word = input('How will we get there? ')
+if word == 'car':
+  print('Shotgun!') 
+print('Time to go.')
