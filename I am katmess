@@ -1,0 +1,5 @@
+book = input(f'what is your favourite book? ')
+if book == 'The Hunger Games' :
+   print('Yes! I am Katniss!')
+else:
+   print('that book it okay.')
